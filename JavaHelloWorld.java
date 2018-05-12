@@ -7,5 +7,6 @@ public class JavaHelloWorld{
 		System.out.println("Hello four times");
 		System.out.println("Hello fifth times");
 		System.out.println("Hello sixth times");
+		System.out.println("Hello seven times");
 	}
 }
